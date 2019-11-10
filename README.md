@@ -1,1 +1,3 @@
-# fast_kapaes_codes.github.io
+# Minha cola de códigos
+
+Pretendo salvar nesse repositório alguns códigos para acesso rápido e talvez que seja útil para alguém da comunidade.
